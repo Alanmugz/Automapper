@@ -1,0 +1,10 @@
+C:\Users\soundstore1\Desktop\AutoMapper\AutoMapper\bin\Debug\AutoMapper.exe.config
+C:\Users\soundstore1\Desktop\AutoMapper\AutoMapper\bin\Debug\AutoMapper.Net4.dll
+C:\Users\soundstore1\Desktop\AutoMapper\AutoMapper\bin\Debug\AutoMapper.exe
+C:\Users\soundstore1\Desktop\AutoMapper\AutoMapper\bin\Debug\AutoMapper.pdb
+C:\Users\soundstore1\Desktop\AutoMapper\AutoMapper\bin\Debug\AutoMapper.dll
+C:\Users\soundstore1\Desktop\AutoMapper\AutoMapper\bin\Debug\AutoMapper.xml
+C:\Users\soundstore1\Desktop\AutoMapper\AutoMapper\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\soundstore1\Desktop\AutoMapper\AutoMapper\obj\Debug\AutoMapper.csprojResolveAssemblyReference.cache
+C:\Users\soundstore1\Desktop\AutoMapper\AutoMapper\obj\Debug\AutoMapper.exe
+C:\Users\soundstore1\Desktop\AutoMapper\AutoMapper\obj\Debug\AutoMapper.pdb
